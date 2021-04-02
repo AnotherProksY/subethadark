@@ -3,7 +3,7 @@ SubEthaEdit Dark colorscheme for Vim
 
 ## Screenshots
 <p align="center">
-  <img width="25%" src="screenshots/subethadark.png" alt="SubEthaDark preview">
+  <img src="screenshots/subethadark.png" alt="SubEthaDark preview">
 </p>
 
 ## Warning
