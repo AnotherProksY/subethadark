@@ -1,6 +1,11 @@
 # SubEthaEdit Dark Vim
 SubEthaEdit Dark colorscheme for Vim
 
+## Screenshots
+<p align="center">
+  <img width="25%" src="screenshots/subethadark.png" alt="SubEthaDark preview">
+</p>
+
 ## Warning
 It's not recommended to use with cterm Vim, only for GUI.
 
