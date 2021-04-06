@@ -3,7 +3,7 @@
 " Description: SubEthaEdit Dark color scheme for Vim
 " Author: Kamil Fazilov <k.faziov@icloud.com>
 " Source: https://github.com/AnotherProksY/subethadark.git
-" Last Modified: 05 Apr 2021
+" Last Modified: 06 Apr 2021
 " -----------------------------------------------------------------------------
 
 " Initialisation: {{{
@@ -153,7 +153,7 @@ call s:Coloring('WarningMsg', s:sb['red'], 'NONE', 'bold')
 call s:Coloring('Cursor', 'bg', s:sb['l_gray'], 'NONE', 1)
 
 " Comment
-call s:Coloring('Comment', s:sb['l_green'], s:sb['black'], 'bold,italic', 0, 1)
+call s:Coloring('Comment', s:sb['l_green'], s:sb['black'], 'bold,italic', 0)
 
 " Constant
 call s:Coloring('Constant', s:sb['pink'], 'NONE', 'NONE')

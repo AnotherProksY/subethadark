@@ -7,4 +7,4 @@ SubEthaEdit Dark colorscheme for Vim
 </p>
 
 ## Contributing
-I'am open for contributing. Just create a pull request and we can discuss your decision.
+I'm open for contributing. Just create a pull request and we can discuss your decision.
